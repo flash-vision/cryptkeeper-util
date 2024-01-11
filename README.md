@@ -5,6 +5,6 @@
 
  usage:
 
- > ./app/cryptkeeper -passkey <plaintext_password> -configfile ./path/to/config.yml
+ > ./app/cryptkeeper-util -passkey <plaintext_password> -configfile ./path/to/config.yml
 
  This will create an encrypted version of the config file with .crypt added.
