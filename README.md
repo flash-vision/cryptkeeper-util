@@ -2,6 +2,9 @@
  Compiled tool that works with cryptkeeper
 
  This app encrypts your config file for use with the cryptkeeper module.
+ build:
+
+> go build -o /path/cryptkeeper-util ./main.go
 
  usage:
 
