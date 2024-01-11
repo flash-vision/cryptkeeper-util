@@ -2,7 +2,7 @@ module cryptkeeper-util
 
 go 1.21.4
 
-require github.com/flash-vision/cryptkeeper v1.0.3
+require github.com/flash-vision/cryptkeeper v1.0.5
 
 require (
 	github.com/fsnotify/fsnotify v1.7.0 // indirect
